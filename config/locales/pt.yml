@@ -1134,7 +1134,7 @@ pt-BR:
     say_yes: Sim
     scope: Escopo
     search: Busca
-    search_results: Resultados da busca por '%{keywords}'
+    search_results: Resultados da busca por '%{keywords}
     searching: Buscando
     secure_connection_type: Tipo de conexão segura
     security_settings: Configurações de segurança
