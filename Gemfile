@@ -58,4 +58,3 @@ gem 'spree_drop_ship', github: 'spree-contrib/spree_drop_ship'
 
 #gem 'nokogiri'
 #gem 'spree_correios'
-
